@@ -26,16 +26,28 @@ This are the sample questions we decided for the interviews but they will be ada
 ## List of people to interview
 
 [] Melissa Mendonça <melissawm@gmail.com>
-[] Madicken Munk <madicken.munk@gmail.com>
+[] Dan Schult
+[] Kira
+[x] Isabela Presedo-Floyd <ipresedo@quansight.com>
+[] Alexandre de Siqueira <alex.desiqueira@berkeley.edu>
 [] Inessa Pawson <inessa@albuscode.org>
 [] Mridul Seth <seth.mridul@gmail.com>
 [] Pamphile Roy <roy.pamphile@gmail.com>
-[] Alexandre de Siqueira <alex.desiqueira@berkeley.edu>
 [] Kelly Boothby <kelly.r.boothby@gmail.com>
+
 [] Lindsey Heagy <lindseyheagy@gmail.com>
-[x] Isabela Presedo-Floyd <ipresedo@quansight.com>
+[] Madicken Munk <madicken.munk@gmail.com>
 
 Recorded videos are [here](https://drive.google.com/drive/u/2/folders/1mAJ7HYQOZZipGwutc1jNGhOJ3bzfsDDC)
+
+## Dan
+
+How do manage to lead NetworkX (a core Scientific Python project), while
+chairing the mathematics department at Colgate University?
+
+What advice would you give a new contributor who wants to become more involved?
+
+What should a new NetworkX contributor expect when submitting their first PR?
 
 # Explanations :book:
 
