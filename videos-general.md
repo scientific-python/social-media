@@ -8,7 +8,7 @@ Interviews will focus on how they got involved, what their projects are like, an
 - Recorded in zoom (Live interviews)
 - 5-7 minutes long
 - Questions will be displayed as labels in the video
-- Scipy icon will be displayed at the top right
+- Scientific Python icon will be displayed at the top right
 - Outro with "Welcome to the Scientific Python Community" label
 
 ## Sample questions
@@ -25,9 +25,9 @@ This are the sample questions we decided for the interviews but they will be ada
 
 ## List of people to interview
 
-[] Melissa Mendonça <melissawm@gmail.com>
+[X] Melissa Mendonça <melissawm@gmail.com>
 [] Dan Schult
-[] Kira
+[X] Kira
 [x] Isabela Presedo-Floyd <ipresedo@quansight.com>
 [] Alexandre de Siqueira <alex.desiqueira@berkeley.edu>
 [] Inessa Pawson <inessa@albuscode.org>
