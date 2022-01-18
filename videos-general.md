@@ -25,18 +25,18 @@ This are the sample questions we decided for the interviews but they will be ada
 
 ## List of people to interview
 
-[X] Melissa Mendonça <melissawm@gmail.com>
-[] Dan Schult
-[X] Kira
-[x] Isabela Presedo-Floyd <ipresedo@quansight.com>
-[] Alexandre de Siqueira <alex.desiqueira@berkeley.edu>
-[] Inessa Pawson <inessa@albuscode.org>
-[] Mridul Seth <seth.mridul@gmail.com>
-[] Pamphile Roy <roy.pamphile@gmail.com>
-[] Kelly Boothby <kelly.r.boothby@gmail.com>
+- [X] Melissa Mendonça <melissawm@gmail.com>
+- [ ] Dan Schult
+- [X] Kira
+- [x] Isabela Presedo-Floyd <ipresedo@quansight.com>
+- [ ] Alexandre de Siqueira <alex.desiqueira@berkeley.edu>
+- [ ] Inessa Pawson <inessa@albuscode.org>
+- [ ] Mridul Seth <seth.mridul@gmail.com>
+- [ ] Pamphile Roy <roy.pamphile@gmail.com>
+- [ ] Kelly Boothby <kelly.r.boothby@gmail.com>
 
-[] Lindsey Heagy <lindseyheagy@gmail.com>
-[] Madicken Munk <madicken.munk@gmail.com>
+- [ ] Lindsey Heagy <lindseyheagy@gmail.com>
+- [ ] Madicken Munk <madicken.munk@gmail.com>
 
 Recorded videos are [here](https://drive.google.com/drive/u/2/folders/1mAJ7HYQOZZipGwutc1jNGhOJ3bzfsDDC)
 
