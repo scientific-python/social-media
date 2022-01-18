@@ -25,16 +25,17 @@ This are the sample questions we decided for the interviews but they will be ada
 
 ## List of people to interview
 
-- [X] Melissa Mendonça <melissawm@gmail.com>
-- [ ] Dan Schult
+- [X] Melissa Mendonça <melissawm@gmail.com> (QuanSight, NumPy dev, CZI grant holder)
+- [ ] Dan Schult (Colgate University, NetworkX dev)
 - [X] Kira
-- [x] Isabela Presedo-Floyd <ipresedo@quansight.com>
-- [ ] Alexandre de Siqueira <alex.desiqueira@berkeley.edu>
-- [ ] Inessa Pawson <inessa@albuscode.org>
-- [ ] Mridul Seth <seth.mridul@gmail.com>
-- [ ] Pamphile Roy <roy.pamphile@gmail.com>
-- [ ] Kelly Boothby <kelly.r.boothby@gmail.com>
-- [ ] Ross Barnowski <rossbar@berkeley.edu>
+- [x] Isabela Presedo-Floyd <ipresedo@quansight.com> (QuanSight)
+- [ ] Alexandre de Siqueira <alex.desiqueira@berkeley.edu> (Berkeley, scikit-image dev)
+- [ ] Inessa Pawson <inessa@albuscode.org> (NumPy Experience Lead, hired on Melissa's grant)
+- [ ] Mridul Seth <seth.mridul@gmail.com> (Full time NetworkX, CZI grant holder)
+- [ ] Pamphile Roy <roy.pamphile@gmail.com> (QuanSight, SciPy dev)
+- [ ] Kelly Boothby <kelly.r.boothby@gmail.com> (DWave, NetworkX dev)
+- [ ] Ross Barnowski <rossbar@berkeley.edu> (Berkeley, Scientific Python/NetworkX)
+- [ ] Hanna Eizenman <haizenman@gmail.com> (Brookhaven National Lab, Matplotlib dev)
 
 ----
 
