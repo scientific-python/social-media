@@ -12,4 +12,22 @@ Todo
 - get instagram
 - get tiktok
 
-For account
+For account information, see
+https://github.com/scientific-python/vault-social-media
+
+
+## Names
+
+Ideally, our handle on social media would be scientific-python, but
+several services have different naming limitations.
+
+When creating a new account, here are the preferred names (the first being the most desirable):
+
+scientific-python
+scientific.python
+scientific_python
+ScientificPython
+scientific-py
+scientific.py
+scientific_py
+ScientificPy
