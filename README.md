@@ -18,16 +18,14 @@ https://github.com/scientific-python/vault-social-media
 
 ## Names
 
-Ideally, our handle on social media would be scientific-python, but
-several services have different naming limitations.
-
 When creating a new account, here are the preferred names (the first being the most desirable):
 
-scientific-python
-scientific.python
-scientific_python
-ScientificPython
-scientific-py
-scientific.py
-scientific_py
-ScientificPy
+- scientific.python
+- scientific_python
+- scientific.py
+- scientific_py
+
+We aim for consistency, but avoid dashes (like in our domain name) because most social media platforms won't allow it. On platforms that don't allow any of the above, use:
+
+- ScientificPython
+- ScientificPy
