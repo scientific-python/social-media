@@ -34,9 +34,12 @@ This are the sample questions we decided for the interviews but they will be ada
 - [ ] Mridul Seth <seth.mridul@gmail.com>
 - [ ] Pamphile Roy <roy.pamphile@gmail.com>
 - [ ] Kelly Boothby <kelly.r.boothby@gmail.com>
+- [ ] Ross Barnowski <rossbar@berkeley.edu>
 
-- [ ] Lindsey Heagy <lindseyheagy@gmail.com>
-- [ ] Madicken Munk <madicken.munk@gmail.com>
+----
+
+- [ ] Lindsey Heagy <lindseyheagy@gmail.com> (how active still?)
+- [ ] Madicken Munk <madicken.munk@gmail.com> (have not been able to reach)
 
 Recorded videos are [here](https://drive.google.com/drive/u/2/folders/1mAJ7HYQOZZipGwutc1jNGhOJ3bzfsDDC)
 
