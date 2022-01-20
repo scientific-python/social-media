@@ -1,6 +1,8 @@
 ## Dan Schult (Colgate University, NetworkX dev)
 
-*Dan is a Professor of Mathematics at Colgate University in upstate New York. He is one of the founders of NetworkX, the Scientific Python package and currently one of his maintainers. He has been part of the Scientific computing community for a long time, helping grow the NetworkX community.*
+*Dan is a Professor of Mathematics at Colgate University in upstate New York.
+He cofounded NetworkX, the Scientific Python package for network science and is currently one of its maintainers.
+He has been part of the Scientific Python community for a long time, helping grow the NetworkX community.*
 
 1. Introduction
 2. What drove you to contribute to open source and what was your first open source contribution?
