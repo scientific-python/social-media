@@ -49,7 +49,7 @@ We use August 19, 2001---the first release of scipy as the project's date of bir
 
 - [youtube](https://www.youtube.com/channel/UC2wKi87Wmy9C1OQMyD9fGxA)
 - [facebook](https://www.facebook.com/scientific.python)
-- [twitter](https://twitter.com/scipy_ecosystem)
+- [twitter](https://twitter.com/scientific_py)
 - [instagram](https://www.instagram.com/scientific.python/)
 - [tiktok](https://www.tiktok.com/@scientific.python)
 
