@@ -1,7 +1,8 @@
 # Interviews :busts_in_silhouette:
 
-We will interview a handful of project developers / maintainers from core projects in the ecosystem.
-Interviews will focus on how they got involved, what their projects are like, and how new people can contribute.
+Interviews with project developers / maintainers from core projects in the
+ecosystem focusing on how they got involved, what their projects are like, and
+how new people can contribute.
 
 ## Format
 
@@ -13,8 +14,6 @@ Interviews will focus on how they got involved, what their projects are like, an
 
 ## Sample questions
 
-This are the sample questions we decided for the interviews but they will be adapted for each developer.
-
 1. Introduction
 2. What drove you to contribute to open source and what was your first open source contribution?
 3. How did you become a maintainer and what was the greatest challenge?
@@ -22,36 +21,6 @@ This are the sample questions we decided for the interviews but they will be ada
 5. What are you doing to make the open source community better? 
 6. Why should someone consider joining the open source community?
 7. Can you give some advice to someone that wants to contribute to open source?
-
-## List of people to interview
-
-- [X] Melissa Mendonça <melissawm@gmail.com> (QuanSight, NumPy dev, CZI grant holder)
-- [ ] Dan Schult (Colgate University, NetworkX dev)
-- [X] Kira
-- [x] Isabela Presedo-Floyd <ipresedo@quansight.com> (QuanSight)
-- [ ] Alexandre de Siqueira <alex.desiqueira@berkeley.edu> (Berkeley, scikit-image dev)
-- [ ] Inessa Pawson <inessa@albuscode.org> (NumPy Experience Lead, hired on Melissa's grant)
-- [ ] Mridul Seth <seth.mridul@gmail.com> (Full time NetworkX, CZI grant holder)
-- [ ] Pamphile Roy <roy.pamphile@gmail.com> (QuanSight, SciPy dev)
-- [ ] Kelly Boothby <kelly.r.boothby@gmail.com> (DWave, NetworkX dev)
-- [ ] Ross Barnowski <rossbar@berkeley.edu> (Berkeley, Scientific Python/NetworkX)
-- [ ] Hanna Eizenman <haizenman@gmail.com> (Brookhaven National Lab, Matplotlib dev)
-
-----
-
-- [ ] Lindsey Heagy <lindseyheagy@gmail.com> (how active still?)
-- [ ] Madicken Munk <madicken.munk@gmail.com> (have not been able to reach)
-
-Recorded videos are [here](https://drive.google.com/drive/u/2/folders/1mAJ7HYQOZZipGwutc1jNGhOJ3bzfsDDC)
-
-## Dan
-
-How do manage to lead NetworkX (a core Scientific Python project), while
-chairing the mathematics department at Colgate University?
-
-What advice would you give a new contributor who wants to become more involved?
-
-What should a new NetworkX contributor expect when submitting their first PR?
 
 # Explanations :book:
 
@@ -118,5 +87,3 @@ As part of demos we can have short (1-2 min) how-to videos that we can link in o
 	- Short workshops on particular projects (numpy, scipy, scikit-learn)
 - **Social gatherings**
 	- Host more informal events in platforms like [gather town](https://www.gather.town) where people can get involved with the community and ask questions.
-	
-
