@@ -55,9 +55,8 @@ We use August 19, 2001---the first release of scipy as the project's date of bir
 
 Todo
 
-- rename twitter
-- get instagram
-- get tiktok
+- replace banners
+- fix description for social media about scientific python
 
 For account passwords and account specific-notes, see
 https://github.com/scientific-python/vault-social-media
