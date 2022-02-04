@@ -7,20 +7,21 @@ how new people can contribute.
 ## Format
 
 - Recorded in zoom (Live interviews)
-- 5-7 minutes long
+- 10-20 minutes long
 - Questions will be displayed as labels in the video
 - Scientific Python icon will be displayed at the top right
-- Outro with "Welcome to the Scientific Python Community" label
+- Outro with "Scientific Python" label
+- Social media handles displayed at the end
 
 ## Sample questions
 
 1. Introduction
 2. What drove you to contribute to open source and what was your first open source contribution?
 3. How did you become a maintainer and what was the greatest challenge?
-4. Why did you decide to “stay” in the open source community? 
-5. What are you doing to make the open source community better? 
-6. Why should someone consider joining the open source community?
-7. Can you give some advice to someone that wants to contribute to open source?
+4. Why did you decide to “stay” in the Scientific Python community?
+5. What are you doing to make the Scientific Python community better?
+6. Why should someone consider joining the Scientific Python community?
+7. Can you give some advice to someone that wants to contribute to the Scientific Python ecosystem?
 
 # Explanations :book:
 
@@ -37,25 +38,39 @@ what their community culture is like, what they need help with, and how to contr
 - Outro with "Welcome to the Scientific Python Community" label
 
 
-## Orientation
+## Community
 
-1. Contributing to Open Source: Know your community
-	- How does the ecosystem work?
-	- What to expect form the ecosystem?
-2. Contributing to Open Source: Getting Started
-	- How to choose a project to work on?
-	- How to get started?
-3. 5 ways to contribute to Open Source without coding
+1. Why contribute to the Scientific Python Ecosystem?
+	- Advance science
+	- Make an impact
+	- Grow as a developer
+2. 5 ways to contribute to Scientific Python without coding
 	- Issue testing and triaging
 	- Reviewing PRs
 	- Improving documentation
 	- Translations
 	- Participating in the community
-4. How to make your first contribution to open source?
+3. Getting started with Scientific Python
+	- How to choose a project to work on?
+	- What tools to learn?
+	- How to make your first contribution?
+4. Choosing a project to contribute
+	- Understanding the project
+	- Contributing to the ecosystem
+	- Learn more about a project
+5. How to make your first contribution to open source?
 	- How to clone and fork a repo?
 	- How to set a development environment?
 	- How to make a PR?
 	- Project: NetworkX
+
+## Ecosystem
+
+1. Ecosystem Introduction
+2. Installing packages
+3. Installing packages using conda
+4. Installing packages using pip
+5. Running Python Code
 
 ## Other ideas for videos
 
