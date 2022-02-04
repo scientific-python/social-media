@@ -21,12 +21,12 @@
 - New releases or important features of relevant projects
 - Documentation, talks, blog posts by relevant projects
 - Grants: PSF, Numfocus, GSOC (deadlines, winners?)
-- Conferences or other events from the scientific python community
+- Conferences or other events from the Scientific Python community
 - (maybe make a list of all the relevant accounts to follow for retweets)
 
 ## Content verification
 
-- Instagram/blog: ensure scipy has right to repost/share content
+- Instagram/blog: ensure Scientific Python has right to repost/share content
 - Make sure content is clearly cited
     - example: a tutorial using someone else’s example clearly cites the original source
 - Limited self/corporate promotion is acceptable, but should be no more than about a quarter of the content of the blog/discourse post. (Or better - NO profit promotional or sales material)
@@ -49,6 +49,7 @@
 ### Behavior Guidelines
 
 - Keep responses polite, assume user statements are in good faith unless they violate the Code of Conduct
+- Never block anyone
 
 ### Recurrent Social Media Campaigns:
 
@@ -68,8 +69,8 @@
 
 ## Twitter Persona
 
-- It is a scientific python community, so talks about itself as a we, us, our, and it. Avoids talking about itself in the 3rd person.
+- It is a Scientific Python community, so talks about itself as a we, us, our, and it. Avoids talking about itself in the 3rd person.
 - Very earnest, eager to please, and aims to be patient & painfully oblivious to snark and sarcasm.
 - Gets over-excited, lots of emojis and encourages folks to share their work.
-- Highlights scientific python projects (events, releases)
+- Highlights Scientific Python projects (events, releases)
 
